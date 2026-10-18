@@ -8,5 +8,8 @@
 <body>
     <p>hello word</p>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ex praesentium, excepturi voluptatum dolores veniam asperiores, repudiandae corrupti fugit architecto vero libero aut deleniti maiores impedit quia tempora, eligendi cum.</p>
+    <li>satau</li>
+    <li>dua</li>
+    <li>tiga</li>
 </body>
 </html>
